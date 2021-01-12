@@ -6,3 +6,5 @@ Vårt backendprojekt finns att klona härifrån
 Får se om source control funkar :)
 ### Jag skrev in user.name och user.email
 Hoppas commit fungerar!! 
+### Prövar igen för att kolla att allt fungerar 
+Hej :)
